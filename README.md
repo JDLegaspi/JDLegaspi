@@ -23,8 +23,11 @@ I’m Jose Daniel Legaspi, a Senior Full Stack Engineer. Here, you’ll find som
 ### 🌟 Highlights
 
 🏢 [Inspace](https://www.inspacestack.com/) - Enterprise Reporting System - **NextJS** for frontend with BFF architecture, **Node/Azure** on the backend, Babylon.js for 3D visualisations
+
 💳 [Zip Co](https://zip.co) - Custom-built SSR pipeline distributed globally with **Cloudflare Edge** network, A/B Testing Pipelines with **Cloudflare and LaunchDarkly**
+
 🩻 [Maxwell Plus](https://www.afr.com/technology/just-missed-out-the-ai-start-up-that-went-bust-before-the-hype-hit-20230616-p5dh3z) - Patient Application with **Flutter**, **Django** backend 
+
 💉 [InkConnect](https://inkconnect.com.au/) - **ReactNative** for cross-platform development, **Node/MongoDB** on the server
 
 ### 🌐 Connect with Me
