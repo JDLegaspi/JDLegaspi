@@ -2,6 +2,10 @@
 
 I’m Jose Daniel Legaspi, a Senior Full Stack Engineer. Here, you’ll find some of the projects I’ve worked on, what I use to build stuff, and how to get in contact with me.
 
+ ### ⚡ Fun fact:
+
+I have over 100 private repos in this Github profile!
+
 ### 🔧 My current stack for personal projects
 
 - [NextJS](https://tailwindcss.com/) 
@@ -25,9 +29,7 @@ I’m Jose Daniel Legaspi, a Senior Full Stack Engineer. Here, you’ll find som
 - [Legaspi.io](https://legaspi.io/)
 - [LinkedIn](https://www.linkedin.com/in/jose-daniel-legaspi/)
 
- ### ⚡ Fun fact:
 
-I have over 100 private repos in this Github profile!
 
 <!--
 **JDLegaspi/JDLegaspi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
