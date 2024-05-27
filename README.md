@@ -4,21 +4,21 @@ I’m Jose Daniel Legaspi, a Senior Full Stack Engineer. Here, you’ll find som
 
 ### 🔧 Tools
 
-	•	Front-end: TypeScript, ReactJS, NextJS, VueJS, Angular
-	•	Back-end: Node, Express, MongoDB, Python, Go, PHP
-	•	Cloud: GCP, AWS, Azure, Cloudflare
-	•	Mobile: React Native, Expo, Flutter
-	•	Testing: Cypress, Flutter Driver, Jest & Enzyme, Selenium
-	•	Bundling: Webpack
-	•	Web3 & Crypto: Personal projects and collaborations
+- Front-end: TypeScript, ReactJS, NextJS, VueJS, Angular
+- Back-end: Node, Express, MongoDB, Python, Go, PHP
+- Cloud: GCP, AWS, Azure, Cloudflare
+- Mobile: React Native, Expo, Flutter
+- Testing: Cypress, Flutter Driver, Jest & Enzyme, Selenium
+- Bundling: Webpack
+- Web3 & Crypto: Personal projects and collaborations
 
 ### 🔧 My current stack for personal projects
 
-  - [NextJS](https://tailwindcss.com/) 
-  - [TailwindCSS](https://tailwindcss.com/)
-  - [ShadCN](https://ui.shadcn.com/)
-  - [GraphQL](https://graphql.org/)
-  - [Supabase](https://supabase.com/)
+- [NextJS](https://tailwindcss.com/) 
+- [TailwindCSS](https://tailwindcss.com/)
+- [ShadCN](https://ui.shadcn.com/)
+- [GraphQL](https://graphql.org/)
+- [Supabase](https://supabase.com/)
 
 ### 🌟 Highlights
 
@@ -29,8 +29,8 @@ I’m Jose Daniel Legaspi, a Senior Full Stack Engineer. Here, you’ll find som
 
 ### 🌐 Connect with Me
 
-	•	[Legaspi.io](https://legaspi.io/)
-	•	[LinkedIn](https://www.linkedin.com/in/jose-daniel-legaspi/)
+- [Legaspi.io](https://legaspi.io/)
+- [LinkedIn](https://www.linkedin.com/in/jose-daniel-legaspi/)
 
  ### ⚡ Fun fact:
 
