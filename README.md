@@ -2,9 +2,7 @@
 
 I’m Jose Daniel Legaspi, a Senior Full Stack Engineer. Here, you’ll find some of the projects I’ve worked on, what I use to build stuff, and how to get in contact with me.
 
- ### ⚡ Fun fact:
-
-I have over 100 private repos in this Github profile!
+**⚡ Fun fact:** I have over 100 private repos in this Github profile!
 
 ### 🔧 My current stack for personal projects
 
