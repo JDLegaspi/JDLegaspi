@@ -2,16 +2,6 @@
 
 I’m Jose Daniel Legaspi, a Senior Full Stack Engineer. Here, you’ll find some of the projects I’ve worked on, what I use to build stuff, and how to get in contact with me.
 
-### 🔧 Tools
-
-- Front-end: TypeScript, ReactJS, NextJS, VueJS, Angular
-- Back-end: Node, Express, MongoDB, Python, Go, PHP
-- Cloud: GCP, AWS, Azure, Cloudflare
-- Mobile: React Native, Expo, Flutter
-- Testing: Cypress, Flutter Driver, Jest & Enzyme, Selenium
-- Bundling: Webpack
-- Web3 & Crypto: Personal projects and collaborations
-
 ### 🔧 My current stack for personal projects
 
 - [NextJS](https://tailwindcss.com/) 
