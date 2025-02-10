@@ -15,6 +15,8 @@ I’m Jose Daniel Legaspi, a Senior Full Stack Engineer. Here, you’ll find som
 
 ## 🌟 Highlights
 
+📈 [Displayr](https://www.displayr.com/) - AI Team - **React + .NET** stack, along with **lots of other things** for AI tasks that streamline data analysis.
+
 🏢 [Inspace](https://www.inspacestack.com/) - Enterprise Reporting System - **NextJS** for frontend with BFF architecture, **Node/Azure** on the backend, **Babylon.js** for 3D visualisations
 
 💳 [Zip Co](https://zip.co) - Custom-built SSR pipeline distributed globally with **RSCs** and **Cloudflare Edge** network, A/B Testing Pipelines with **Cloudflare and LaunchDarkly**
