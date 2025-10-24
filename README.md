@@ -15,6 +15,8 @@ I’m Jose Daniel Legaspi, a Senior Full Stack Engineer. Here, you’ll find som
 
 ## 🌟 Highlights
 
+💗 [Thanks](https://thanks.co) - **React Native, Kotlin, Swift, Node, Cloudflare**, along with **lots of other things** for AdTech/MarTech stuff.
+
 📈 [Displayr](https://www.displayr.com/) - AI Team - **React + .NET** stack, along with **lots of other things** for AI tasks that streamline data analysis.
 
 🏢 [Inspace](https://www.inspacestack.com/) - Enterprise Reporting System - **NextJS** for frontend with BFF architecture, **Node/Azure** on the backend, **Babylon.js** for 3D visualisations
