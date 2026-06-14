@@ -23,7 +23,7 @@ I’m Jose Daniel Legaspi, a Senior Full Stack Engineer. Here, you’ll find som
 
 💳 [Zip Co](https://zip.co) - Custom-built SSR pipeline distributed globally on the **Cloudflare Edge** network, A/B Testing Pipelines with **Cloudflare and LaunchDarkly**
 
-🩻 [Maxwell Plus](https://www.afr.com/technology/just-missed-out-the-ai-start-up-that-went-bust-before-the-hype-hit-20230616-p5dh3z) - Patient Application with **Flutter**, **Django** backend 
+🩻 [Maxwell Plus](https://www.afr.com/technology/just-missed-out-the-ai-start-up-that-went-bust-before-the-hype-hit-20230616-p5dh3z) - AI Cancer Detection, **Flutter** Patient Application, **React** Clinician Application, **Django** backend 
 
 💉 [InkConnect](https://inkconnect.com.au/) - **ReactNative** for cross-platform development, **Node/MongoDB** on the server
 
